@@ -1,0 +1,23 @@
+div{
+    height: 50px;
+    width: 50px;
+    margin: 2px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#red{
+  background: red;
+}
+#blue{
+    background: blue;
+    
+}
+#black{
+    background: black;
+    
+}
+#yellow{
+    background: yellow;
+    
+}
